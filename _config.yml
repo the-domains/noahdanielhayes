@@ -1,6 +1,6 @@
 name: noahdanielhayes
 favicon: null
-layout_spectrum: 0.5982686672359705
+layout_spectrum: 0.236
 typography_spectrum: 0.7779384020250291
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#E376B7'
   brandStrength: 0.1268040610011667
   lightness: 0.4277074309065938
-  saturation: 0.5354457157664001
+  saturation: 0.5
   rhythmicContrast: 0.9369491895195097
 purpose: []
