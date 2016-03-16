@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[noahdanielhayes]]></title>
         <description><![CDATA[noahdanielhayes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/noahdanielhayes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 01:30:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 01:34:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/noahdanielhayes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[catskill mountain horses]]></title>
             <description><![CDATA[<article><h1>catskill mountain horses</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab79d1519c66961ef0e13173aeee11c8d3f57cb2.png"></article>]]></description>
             <link>urn:uuid:4a41655e-78ed-4114-857e-ae08d3427c43</link>
             <guid isPermaLink="false">12233a10-95cf-49e5-a9e4-5e8a0d943f3d</guid>
-            <pubDate>Wed, 16 Mar 2016 01:30:24 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 01:33:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
